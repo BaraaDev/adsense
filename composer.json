@@ -1,0 +1,24 @@
+{
+    "name": "ardyn/adsense",
+    "description": "A convenient way to include Google AdSense ads within your pages.",
+    "keywords": [ "laravel", "adsense", "google ads" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn Solinko",
+            "email": "shawnsolinko@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5",
+        "illuminate/support": "~5.0",
+        "illuminate/config":"~5.0",
+        "illuminate/view":"~5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ardyn\\Adsense": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
