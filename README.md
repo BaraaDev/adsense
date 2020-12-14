@@ -13,7 +13,7 @@ Edit your `composer.json` file:
 
 ```json
 "require": {
-  "ardyn/adsense": "~2.0"
+  "ardyn/adsense": "~3.0"
 }
 ```
 Run `composer update`.
